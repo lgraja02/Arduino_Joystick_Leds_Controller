@@ -17,7 +17,8 @@ Otherwise, moving the joystick in any direction will control the brightness of t
 ## 🖼️ Circuit Photo
 
 <!-- INSERT PHOTO BELOW -->
-![Circuit Photo](![arduino_github_joystick](https://github.com/user-attachments/assets/f82d97e4-78ec-4fb8-9266-42af7a878bbe))
+![Circuit Photo](https://github.com/user-attachments/assets/f82d97e4-78ec-4fb8-9266-42af7a878bbe)
+
 
 ## 🎥 Project Demo
 
